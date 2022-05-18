@@ -47,6 +47,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CivilCarSpawner.cs" />
+     <Compile Include="Assets\Scripts\CivilCarBehaviour.cs" />
      <Compile Include="Assets\Scripts\RoadInfiniteScrolling.cs" />
      <Compile Include="Assets\Scripts\RedCarMovement.cs" />
  <Reference Include="UnityEngine">

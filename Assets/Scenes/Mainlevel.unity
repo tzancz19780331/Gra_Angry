@@ -686,7 +686,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1706716689}
-  CarSpeed: 3.5
+  CarSpeed: 8
 --- !u!1 &1943087688
 GameObject:
   m_ObjectHideFlags: 0
